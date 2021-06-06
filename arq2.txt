@@ -1,0 +1,4 @@
+camelo
+jumento
+cavalo
+potrinho
